@@ -1,0 +1,24 @@
+{
+  "name": "25.03-devcamp-shop24h-backend",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/devcamp120.r2112/exercise/duynt/shop24h-project/25.03-devcamp-shop24h-backend.git"
+  },
+  "author": "DUYNT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/devcamp120.r2112/exercise/duynt/shop24h-project/25.03-devcamp-shop24h-backend/issues"
+  },
+  "homepage": "https://gitlab.com/devcamp120.r2112/exercise/duynt/shop24h-project/25.03-devcamp-shop24h-backend#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  }
+}
